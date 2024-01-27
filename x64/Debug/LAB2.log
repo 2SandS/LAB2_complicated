@@ -1,0 +1,21 @@
+﻿  LogElem.cpp
+C:\Users\Марат\Prog\LAB2\LAB2\LogElem.cpp(324,29): error C2382: Class1::LogicalElement::LogicalElement: переопределение; разные спецификации исключений
+  C:\Users\Марат\Prog\LAB2\LAB2\LogElem.h(48,9):
+   см. объявление "Class1::LogicalElement::LogicalElement"
+  
+C:\Users\Марат\Prog\LAB2\LAB2\LogElem.cpp(339,29): error C2382: Class1::LogicalElement::LogicalElement: переопределение; разные спецификации исключений
+  C:\Users\Марат\Prog\LAB2\LAB2\LogElem.h(49,9):
+   см. объявление "Class1::LogicalElement::LogicalElement"
+  
+C:\Users\Марат\Prog\LAB2\LAB2\LogElem.cpp(351,53): error C2382: Class1::LogicalElement::operator =: переопределение; разные спецификации исключений
+  C:\Users\Марат\Prog\LAB2\LAB2\LogElem.h(50,25):
+   см. объявление "Class1::LogicalElement::operator ="
+  
+C:\Users\Марат\Prog\LAB2\LAB2\LogElem.cpp(373,53): error C2382: Class1::LogicalElement::operator =: переопределение; разные спецификации исключений
+  C:\Users\Марат\Prog\LAB2\LAB2\LogElem.h(51,25):
+   см. объявление "Class1::LogicalElement::operator ="
+  
+C:\Users\Марат\Prog\LAB2\LAB2\LogElem.cpp(383,17): warning C4297: Class1::LogicalElement::operator =: ожидается, что функция не будет выдавать исключения, но она это делает
+  C:\Users\Марат\Prog\LAB2\LAB2\LogElem.cpp(383,17):
+  для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+  
